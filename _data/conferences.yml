@@ -1,4 +1,13 @@
 ---
+- title: 2nd International Conference on Digital Health Technologies 
+  year: 2019
+  id: icdht2019
+  link: http://www.icdht.org/
+  deadline: '2019-05-19 23:59:59'
+  timezone: GMT+1
+  date: December 09-11, 2019
+  place: Hammamet, Tunisia
+  sub: CON
 - title: 6th International Conference on Soft Computing & Machine learning 
   year: 2019
   id: iscmi2019
